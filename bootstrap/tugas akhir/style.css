@@ -1,0 +1,8 @@
+.banner {
+     background: url(janko-ferlic-sfL_QOnmy00-unsplash.jpg) no-repeat center center;
+     background-size: cover;
+     padding-top: 20%;
+     padding-bottom: 20%;
+     color: #fff;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
